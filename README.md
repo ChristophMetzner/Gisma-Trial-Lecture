@@ -29,4 +29,10 @@ Click on the link below and a new tab in your browser will open, where you can i
 
 https://claude.ai/public/artifacts/c92efec9-603c-4658-b570-6419b215a384
 
+## Bayesian A/B Testing in Python
+Here is the hands-on coding example from the lecture.
+
+### The Scenario
+We want to estimate the click-through rate of a new website button after k clicks in n trials. In the notebook 'bayesian_ab_testing.ipynb' we solve this problem using Bayes' theorem as we did in the lecture. 
+
 
