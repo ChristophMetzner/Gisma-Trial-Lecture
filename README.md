@@ -14,3 +14,19 @@ What is the probability she actually has cancer?
 Click on the link below and a new tab in your browser will open, where you can interactively go through the mammogram paradox. You can also adjust sensititvity, specificty, and the base rate (prevalence) to explore other scenarios and build intuition.
 
 https://claude.ai/public/artifacts/ec6f5cb6-fe8d-4ff0-89c1-7d28651432e9
+
+## Card Game
+Here is another example of an application of Bayes' Theorem to build intuition.
+
+### The Scenario
+I have three cards. One card is red on both sides, one card is white on both sides and one card is red on one and white on the other side. I randomly draw one of the cards. I show you the front of the card and it is red.
+
+What is the probability the ack of the card is also red?
+(a) 1/4     (b) 1/2     (c) 2/3     (d) 3/4     (e) 1     (f) Something else?
+
+### An interactive Solution
+Click on the link below and a new tab in your browser will open, where you can interactively go through the card game. You can also adjust the cards to explore other scenarios and build intuition.
+
+https://claude.ai/public/artifacts/c92efec9-603c-4658-b570-6419b215a384
+
+
