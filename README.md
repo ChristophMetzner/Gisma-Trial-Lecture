@@ -34,5 +34,5 @@ Here is the hands-on coding example from the lecture.
 
 ### The Scenario
 We want to estimate the click-through rate of a new website button after k clicks in n trials. In the notebook 'bayesian_ab_testing.ipynb' we solve this problem using Bayes' theorem as we did in the lecture. 
-
+The solutions can be found at the end of the notebook. The answers to the discussion questions can be found in the lecture slides at the very end.
 
